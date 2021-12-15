@@ -1,6 +1,6 @@
 # AWS Developer Associate - Setting up a Lab
 
-## SSH Clients
+## SSH Clients test
 
 ### Windows test
 
